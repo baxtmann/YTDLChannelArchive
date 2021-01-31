@@ -23,3 +23,7 @@ No python deps needed, just install python3 and run!
 If you are going to run on a different HDD. use Set-Location D: (where d is your drive letter) to change drives in powershell! Use cd to change directories and ls to show where you currently are
 
 Download file list: add on channel per line for script to work
+
+Notes: if you clone directly from this repo, you will need to download the latest ffmpeg windows binaries, which can be found on ffmpegs website
+
+Disclaimer: In our release package we include the latest version of ffmpeg and ytdl, all rights go to both of these teams, and shoutout to them for creating awesome software!
