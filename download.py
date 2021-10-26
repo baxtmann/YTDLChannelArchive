@@ -3,7 +3,7 @@
 import os
 
 # the custom command to be executed with every URL, the URL is substituted inside the {}
-command = r'.\youtube-dl.exe -f best -ciw -o "%(uploader)s/%(title)s.%(ext)s" -V {}'
+command = r'.\youtube-dl.exe -f best -ciw -o "%(uploader)s/%(title)s.%(ext)s" -v {}'
 
 # channels list file
 channels_file = 'channels.txt' # file in the same folder
