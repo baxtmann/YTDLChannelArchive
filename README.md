@@ -1,5 +1,7 @@
 # YTDLChannelArchive
 
+NOTE: YTDL IS CURRENTLY EXPERIENCING ISSUES WITH DOWNLOAD SPEED, WE ARE WORKING ON ADDING A DIFFERENT PROGRAM TO THIS REPO TO HELP WITH DOWNLOAD SPEED
+
 Use this script to download a list of channels all at once!
 
 Currently only working on Windows. 
